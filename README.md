@@ -7,4 +7,4 @@
 Provide one central location for all docmentation on group project.
 
 ### Wiki
-[HL100 Wiki](https://github.com/cwbjr/HL100_Documentation/wiki)
+[HL100 Wiki](https://github.com/HL-100/HL100_Wiki/wiki)
